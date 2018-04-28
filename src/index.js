@@ -4,5 +4,5 @@ import ReactDom from 'react-dom';
 import Hello from './js/HelloReact';
 
 ReactDom.render(
-<Hello es={arrowFunc()} />, document.getElementById('app')
+  <Hello es={arrowFunc()} />, document.getElementById('app')
 )
