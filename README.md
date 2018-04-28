@@ -51,4 +51,5 @@ module.exports = {
 在浏览器打开template.html，效果如下
 ![](./asserts/webpack.png)
 
+## babel
 
