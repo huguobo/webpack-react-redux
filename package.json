@@ -1,0 +1,27 @@
+{
+  "name": "webpack-react-redux",
+  "version": "1.0.0",
+  "description": "webpack-react-redux",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huguobo/webpack-react-redux.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "redux"
+  ],
+  "author": "huguobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huguobo/webpack-react-redux/issues"
+  },
+  "homepage": "https://github.com/huguobo/webpack-react-redux#readme",
+  "dependencies": {
+    "webpack": "^3.11.0"
+  }
+}
